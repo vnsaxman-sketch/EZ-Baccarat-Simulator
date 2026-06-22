@@ -8,7 +8,7 @@ A simple Windows desktop app. Download the ready-to-run `.exe` from the Releases
 👉 [Download .exe from Releases](https://github.com/vnsaxman-sketch/Ez-Baccarat-Simulator/releases)
 
 - Open the latest release and go to the **Assets** section.
-- Click the `.exe` file (e.g., `MyApp-1.0.0.exe`) to download it.
+- Click the `.exe` file (e.g., `EZ_Bacc_Pattern_Frequency_Analyzer_Ver.3.exe`) to download it.
 
 ## 🛠️ How to use
 
