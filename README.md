@@ -5,7 +5,7 @@ A simple Windows desktop app. Download the ready-to-run `.exe` from the Releases
 ## 📥 Download
 
 **Latest version (Windows .exe):**  
-👉 [Download .exe from Releases](https://github.com/yourusername/myapp/releases)
+👉 [Download .exe from Releases](https://github.com/vnsaxman-sketch/Ez-Baccarat-Simulator/releases)
 
 - Open the latest release and go to the **Assets** section.
 - Click the `.exe` file (e.g., `MyApp-1.0.0.exe`) to download it.
