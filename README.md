@@ -23,11 +23,9 @@ A simple Windows desktop app. Download the ready-to-run `.exe` from the Releases
 ```
 
 Replace:
-
-- `vnsaxman-sketch` with your GitHub username
-- `EZ-Baccarat-Simulator` with your repository name
+- `EZ-Baccarat-Simulator.exe` 
 - `EZ_Baccarat_Drill_Simulator.exe` 
 - `EZ_Baccarat_Pattern_Frequency_Analyzer_Ver.3.exe` 
 - `Bacc_Zones_Training_Simulation.exe` 
-- `Craps_Elite_Simulator.exe` with your actual `
+- `Craps_Elite_Simulator.exe`
 - `Craps_Strategies_Session_Profit_Calculator.exe` 
