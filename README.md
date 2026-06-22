@@ -19,7 +19,7 @@ A simple Windows desktop app. Download the ready-to-run `.exe` from the Releases
 ## 📢 Stay updated
 
 - Click **Watch** → **Releases** on this repo to get notified about new versions.
-- Check the [Releases page]([https://github.com/yourusername/myapp/releases](https://github.com/vnsaxman-sketch/Ez-Baccarat-Simulator/releases)) for the latest updates.
+- Check the [Releases page]([https://github.com/yourusername/myapp/releases]) for the latest updates.
 ```
 
 Replace:
